@@ -90,19 +90,16 @@ body{
 @media (max-width: 920px){
 	.img__slider .navigation{
 		bottom: 25px;
-		bottom: -60%;
 	}
 }
 @media (max-width: 910px){
 	.img__slider .navigation{
 		bottom: 25px;
-		bottom: -55%;
 	}
 }
 @media (max-width: 900px){
 	.img__slider .navigation{
 		bottom: 25px;
-		bottom: -50%;
 	}
 }
 
@@ -110,6 +107,7 @@ body{
 	.img__slider{
 		width: 600px;
 		height: 375px;
+		bottom: 150px;
 	}
 	.img__slider .slide .info{
 		padding: 10px 25px;	
@@ -136,6 +134,7 @@ body{
 	.img__slider{
 		width: 400px;
 		height: 250px;
+		bottom: 100px;
 	}
 	.img__slider .slide .info{
 		padding: 10px 20px;	
